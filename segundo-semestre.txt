@@ -1,0 +1,4 @@
+Paradigmas de Programación
+Estructura de Datos
+Herramientas Gráficas
+Matemáticas II
